@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Práctica 2</title>
+    </head>
+    <body background="img/fondo.jpg">
+     <font face="Century Gothic" size="3" color="black">
+           <h1>Practica 2</h1>
+    <hr></hr>
+    </font>
+    <style>
+        table, th, td{
+            border: 1px solid black;
+    </style>
+    <TABLE>
+     <TR>
+      <TD>Tipos de música electrónica</TD>
+      <TD><ul>
+            <li>House</li>
+            <li>EDM</li>
+            <li>Dance</li>
+            <li>Techno</li>
+            <li>Drum and bass</li>
+            <li>Hardcore</li>
+            <li>Trance</li>
+        </ul></TD>
+      <TD><img src="img/imagen4.jpg" width="400" heigth="200"/></TD>
+     </TR>
+      <TR>
+      <TD>Los festivales más importantes según los tipos de música electrónica</TD>
+      <TD><ol>
+            <li>Dreambeach Festival</li>
+            <li> Barcelona Beach Festival</li>
+            <li>Awakenings</li>
+            <li>Tomorrowland</li>
+        </ol></TD>
+      <TD><img src="img/imagen5.jpg" width="400" heigth="200"/></TD>
+     </TR>
+      <TR>
+      <TD>Algunos de los mejores DJs del mundo</TD>
+      <TD><dl>
+            <dt>Armin Van Buuren</dt>
+            <dd>Oliver Heldens</dt>
+            <dt>Steve Aoki</dt>
+            <dd>Martin Garrix</dt>
+            <dt>Don Diablo</dt>
+            <dd>David Guetta</dt>
+       </dl></TD>
+      <TD><img src="img/imagen6.png" width="400" heigth="200"/></TD>
+     </TR>
+    </TABLE>
+    <center><h5>Diseñado por: Perez Reyes Manuel De Jesus</h5></center>
+    </body>
+</html>
